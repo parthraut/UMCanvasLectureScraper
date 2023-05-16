@@ -27,7 +27,7 @@ env\Scripts\activate  # For Windows
 pip install -r requirements.txt
 ```
 
-4. Download ChromeDriver (if you do not have chrome already installed.):
+4. Download ChromeDriver (if you do not have chrome already installed. If you already have chrome on your computer, you can skip this step):
 
 Download the appropriate ChromeDriver for your Chrome version from ChromeDriver Downloads. Place the ChromeDriver executable in the project directory.
 
