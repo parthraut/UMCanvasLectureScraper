@@ -40,3 +40,5 @@ After running the program, a Chrome browser window will open. Manually log in to
 Once the page is loaded, return to the terminal and press Enter to continue the program execution.
 
 6. Wait for pages to be visited. Adjust the time_to_wait variable as needed.
+
+7. Output will be saved in lectures.csv.
