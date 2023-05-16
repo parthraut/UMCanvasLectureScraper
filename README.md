@@ -1,4 +1,5 @@
-# 🎓 UMCanvasLectureScraper
+# 🎓 University of Michigan Canvas Lecture Link Scraper
+### Share your lecture recordings easily with this tool!
 
 This handy tool is designed to effortlessly scrape all lecture recording sources from the University of Michigan EECS lectures, storing them neatly in a CSV file.
 
@@ -41,4 +42,4 @@ Once the page is loaded, return to the terminal and press Enter to continue the 
 
 6. Wait for pages to be visited. Adjust the time_to_wait variable as needed.
 
-7. Output will be saved in lectures.csv.
+7. Output will be saved in lectures.csv. The lectures can now be viewed without authetication by following the lecture link in the csv. 
